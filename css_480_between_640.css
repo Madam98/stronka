@@ -1,0 +1,60 @@
+html { font-size:16px;}
+
+
+.imgfit { width: 250px; height:500px; object-fit: cover}
+
+#main-block-div{
+ text-align:center;
+ background: #faa; padding: 0}
+
+#div-1{
+ height:150px;  
+ width: 100%;
+
+ background: #f29104;
+ clear:both;
+ overflow: hidden;} 
+
+
+#div-2{
+ height:150px;  
+ width: 40%;
+ float:left;
+ background: #000000;
+ } 
+
+
+#div-3{
+ height:150px;  
+ width: 60%;
+ float:left;
+ background: #cccccc;
+ } 
+
+
+#div-4{
+ height:150px;  
+ width: 100%;
+ clear:both;
+ background: #d2edb3;
+ } 
+
+
+#div-5{    
+ height:150px;  
+ width: 100%;
+ background: #f7f0cb;
+ clear:both;} 
+
+.center {
+border: 0px solid #FFFF00;
+display: flex;
+justify-content: center;
+}
+
+
+
+
+.hide-4-div{display: none;}
+
+
