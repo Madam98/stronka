@@ -3,12 +3,16 @@ html { font-size:16px;}
 
 .imgfit { width: 250px; height:500px; object-fit: cover}
 
+
+
+
 #main-block-div{
+ height: 100%;
  text-align:center;
  background: #faa; padding: 0}
 
 #div-1{
- height:150px;  
+ height: 33.3%;  
  width: 100%;
  background: #f29104;
  clear:both;
@@ -16,31 +20,31 @@ html { font-size:16px;}
 
 
 #div-2{
- height:150px;  
- width: 100%;
- clear:both; 
- background: #000000;
+ height:33.3%;  
+ width: 30%;
+ float:left;
+ background: #666565;
  } 
 
 
 #div-3{
- height:150px;  
- width: 100%;
- clear:both;
- background: #cccccc;
+ height:33.3%;  
+ width: 30%;
+ float:left;
+ background: #88947E;
  } 
 
 
 #div-4{
- height:150px;  
- width: 100%;
- clear:both;
+ height:33.3%;  
+ width: 40%;
+ float:left;
  background: #d2edb3;
  } 
 
 
-#div-5{  
- height:150px;  
+#div-5{   
+ height:33.3%;  
  width: 100%;
  background: #f7f0cb;
  clear:both;} 

@@ -3,47 +3,46 @@ html { font-size:16px;}
 
 .imgfit { width: 250px; height:500px; object-fit: cover}
 
-
-
-
 #main-block-div{
  text-align:center;
+     height: 100%;
  background: #faa; padding: 0}
 
 #div-1{
- height:150px;  
+ height: 25%;  
  width: 100%;
+
  background: #f29104;
  clear:both;
  overflow: hidden;} 
 
 
 #div-2{
- height:150px;  
- width: 30%;
+ height:25%;  
+ width: 40%;
  float:left;
- background: #000000;
+ background: #666565;
  } 
 
 
 #div-3{
- height:150px;  
- width: 30%;
+ height:25%;  
+ width: 60%;
  float:left;
- background: #798c63;
+ background: #88947E;
  } 
 
 
 #div-4{
- height:150px;  
- width: 40%;
- float:left;
+ height:25%;  
+ width: 100%;
+ clear:both;
  background: #d2edb3;
  } 
 
 
-#div-5{   
- height:150px;  
+#div-5{    
+ height:25%;  
  width: 100%;
  background: #f7f0cb;
  clear:both;} 
